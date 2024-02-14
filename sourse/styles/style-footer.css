@@ -1,0 +1,53 @@
+.page_footer {
+    width: 1900px;
+    min-height: 450px;
+    text-align: center;
+    background-image: linear-gradient(rgba(217, 217, 217, 0), rgba(237, 166, 29, 1));
+}
+
+.footer_list {
+    display: flex;
+    margin: 0;
+    padding: 0;
+    padding-top: 160px;
+    gap: 100px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    justify-content: center;
+    list-style: none;
+}
+
+.footer_title {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    color: black;
+}
+
+.footer_page_text {
+    margin: 0;
+    padding: 0;
+    padding-top: 20px;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 25px;
+    list-style: none;
+}
+
+.footer_text {
+    padding-top: 25px;
+}
+
+.footer_contacs {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+    justify-content: center;
+    list-style: none;
+    padding-top: 25px;
+}
+
+.footer_img {
+    display: block;
+}
